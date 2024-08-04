@@ -1,0 +1,19 @@
+1.	Find the next number in the sequence: 2, 6, 12, 20, 30, 42, ...?
+
+    Ans: 56
+
+2.	In how many different ways can 5 books be arranged on a shelf?
+
+    Ans: 120
+
+3.	If A is the brother of B, B is the sister of C, and C is the father of D, how is A    related to D?
+
+    Ans: A is D's uncle.
+
+4.	What is the angle between the hour and minute hands of a clock at 7:20?
+
+    Ans: 100 deg
+
+5.	How many times in a 12-hour period do the hour and minute hands of a clock overlap?
+
+    Ans: 11 times
