@@ -1,0 +1,14 @@
+1.	A person starts from point A, walks 5 km towards the east, turns right and walks 3 km, turns left and walks 2 km, turns left and walks 3 km, and finally turns right and walks 5 km to reach point B. What is the shortest distance between points A and B?
+Answer: 12 kilometer
+
+2.	A sum of money is invested at an annual interest rate of 5% compounded quarterly. If the investment grows to $1,215 after 2 years, what was the initial amount invested?
+Answer: $1100
+
+3.	At what time between 5:00 and 6:00 will the minute and hour hands of a clock be exactly 40 degrees apart?
+Answer:5:20 and 5:34.5
+
+4.	In a family, A is married to B. B has a son, C, from a previous marriage, and A and B have a daughter, D. D is married to E, and they have a child, F. F’s paternal grandfather is G. How is G related to A?
+Answer: Father-in-law
+
+5.	Determine the next term in the series: A1, B3, D7, G15, ?
+Answer: K31
