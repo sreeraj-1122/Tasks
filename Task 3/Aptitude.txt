@@ -1,0 +1,10 @@
+1.	If 5 workers can complete a job in 8 days, how many days will it take for 8 workers to complete the same job, assuming they work at the same rate?
+Answer: 5 days
+2.	John is the son of Mike. Mike is the father of Lisa. Lisa is the daughter of Mary. Mary is the wife of Tom. Tom is the grandfather of John. How is Lisa related to John?
+Answer: Aunty
+3.	Today it is Thursday.After 132 days,it will be?
+Answer: Wednesday
+4.	Insert the next number in this sequence 7, 26,63,124, 215,342
+Answer:455
+5.	Transform the word “COLD” into “WARM” by changing one letter at a time, ensuring that each intermediate step is a valid English word?
+Answer: COLD => CORD => CARD => WARD => WARM
